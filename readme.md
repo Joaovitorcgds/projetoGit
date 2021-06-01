@@ -1,1 +1,2 @@
-Aula e como usar o git
+Aula de como usar o git e o github
+minha primeira alteração
